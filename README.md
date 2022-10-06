@@ -1,0 +1,4 @@
+- ola meu nome e @kaudoparafau1
+- meu email de contato e @kaua.henriquepereirada.silva@escola.pr.gov.br
+- eu estou interessado a aprender a programar
+- eu estou aprendendo a programar recentemente java script e scratch
